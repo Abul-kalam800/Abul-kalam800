@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abul kalam</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src=""/>
+<img src="./github_banner.jpg"/>
 
 <h3 align="left">Social Links:</h3>
 <p align="left">
