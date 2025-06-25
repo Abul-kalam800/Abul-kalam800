@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammad Abul kalam</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 <img src="./github_banner.jpg"/>
+<h1 align="center">Hi 👋, I'm Mohammad Abul kalam</h1>
+<h2 align="left">About me:</h2>
+<p> Hi I'am Mohammad Abul kalam frent-end developer, I have solid knowlodge in HTML,CSS,JavaScript and react js node js. I can build dynamic client side user interface </p>
 
 <h3 align="left">Social Links:</h3>
 <p align="left">
